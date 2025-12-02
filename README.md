@@ -42,7 +42,3 @@ python notebook_train.py
 Run the Web App
 streamlit run app_streamlit.py
 
-
-
-cd heart-disease-ml
-pip install -r requirements.txt
